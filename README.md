@@ -1,0 +1,2 @@
+# AlgorithmCodeKata
+Algorithm Practice
