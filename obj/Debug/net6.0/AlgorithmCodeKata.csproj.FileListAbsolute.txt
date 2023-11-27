@@ -1,0 +1,15 @@
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\bin\Debug\net6.0\AlgorithmCodeKata.exe
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\bin\Debug\net6.0\AlgorithmCodeKata.deps.json
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\bin\Debug\net6.0\AlgorithmCodeKata.runtimeconfig.json
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\bin\Debug\net6.0\AlgorithmCodeKata.dll
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\bin\Debug\net6.0\AlgorithmCodeKata.pdb
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\obj\Debug\net6.0\AlgorithmCodeKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\obj\Debug\net6.0\AlgorithmCodeKata.AssemblyInfoInputs.cache
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\obj\Debug\net6.0\AlgorithmCodeKata.AssemblyInfo.cs
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\obj\Debug\net6.0\AlgorithmCodeKata.csproj.CoreCompileInputs.cache
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\obj\Debug\net6.0\AlgorithmCodeKata.sourcelink.json
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\obj\Debug\net6.0\AlgorithmCodeKata.dll
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\obj\Debug\net6.0\refint\AlgorithmCodeKata.dll
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\obj\Debug\net6.0\AlgorithmCodeKata.pdb
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\obj\Debug\net6.0\AlgorithmCodeKata.genruntimeconfig.cache
+C:\Users\rgh99\OneDrive\바탕 화면\AlgorithmCodeKata\AlgorithmCodeKata\obj\Debug\net6.0\ref\AlgorithmCodeKata.dll
