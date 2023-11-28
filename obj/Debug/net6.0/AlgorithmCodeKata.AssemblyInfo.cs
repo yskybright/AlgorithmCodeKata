@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgorithmCodeKata")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74fd11d8a89a5a79f7a1cd97cd761ce4aa9c4eaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgorithmCodeKata")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgorithmCodeKata")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
