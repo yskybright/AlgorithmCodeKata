@@ -23,7 +23,6 @@ namespace AlgorithmCodeKata
             {
                 answer.Add(-1);
             }
-
             return answer.ToArray();
         }
     }
